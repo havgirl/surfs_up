@@ -30,7 +30,7 @@ In addition to studying the temperature trend, W. Avy wanted to check one more s
 
 The reports yield the following:
  - The average precipitation for the month of June was 0.13 inches
- - The average precipitation for the month of June was 0.21 inches
+ - The average precipitation for the month of December was 0.21 inches
  - The frequency for which rain accumulates above average is low
 
 ## Summary
