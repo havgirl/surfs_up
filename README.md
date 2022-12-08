@@ -7,6 +7,7 @@ Jupyter Notebook, VS Code, SQL Lite and Python.
 ### Analysis of June and December Temperature
 
 Below are summary statics for the temperature during the months of June and December
+
 ![Resources/June_Temp_Stats.png](Resources/June_Temp_Stats.png)
 
 ![Resources/Dec_Temp_Stats.png](Resources/Dec_Temp_Stats.png)
